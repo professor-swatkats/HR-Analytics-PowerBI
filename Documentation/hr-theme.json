@@ -1,0 +1,25 @@
+{
+  "name": "HR Dark Analytics",
+  "dataColors": ["#6366F1", "#14B8A6", "#F59E0B", "#EC4899", "#3B82F6", "#84CC16", "#EF4444", "#A855F7"],
+  "background": "#0F1117",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#6366F1",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#1A1D29" } }, "transparency": 0 }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#2D3142" } }, "radius": 8 }],
+        "visualHeader": [{ "show": true, "foreground": { "solid": { "color": "#E5E7EB" } }, "background": { "solid": { "color": "#1A1D29" } } }],
+        "outspacePane": [{ "backgroundColor": { "solid": { "color": "#0F1117" } } }]
+      }
+    },
+    "page": { "*": { "background": [{ "color": { "solid": { "color": "#0F1117" } }, "transparency": 0 }] } },
+    "card": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#1A1D29" } }, "transparency": 0 }],
+        "labels": [{ "color": { "solid": { "color": "#FFFFFF" } }, "fontSize": 24, "fontFamily": "Segoe UI", "isBold": true }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#9CA3AF" } }, "fontSize": 11, "fontFamily": "Segoe UI" }]
+      }
+    }
+  }
+}
