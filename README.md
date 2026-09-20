@@ -161,17 +161,16 @@ HR-Analytics-PowerBI/
 │
 ├── README.md
 │
-├── PowerBI/
-│   └── HR_Analytics.pbix
-│
 ├── Screenshots/
 │   └── dashboard.png
 │
 ├── Data/
-│   └── README.md
+│   └── Raw file.xlsx
 │
 └── Documentation/
-    └── Project_Report.pdf
+    └── hr-theme.json
+    └── PRDA_03_HR_Analytics_Final.pptx
+    └── PRDA_03_HR_Analytics_Report.docx
 ```
 
 ---
